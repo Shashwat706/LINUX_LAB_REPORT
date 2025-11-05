@@ -77,8 +77,10 @@ top
 ```
 
 **Output:**
+<img width="881" height="644" alt="Screenshot 2025-11-05 220807" src="https://github.com/user-attachments/assets/61f155f3-db97-440d-b4aa-4444d6a274be" />
+<img width="883" height="645" alt="Screenshot 2025-11-05 220854" src="https://github.com/user-attachments/assets/d922ba44-4122-4ac3-82f1-eb2cc2323653" />
 
-<p align="center"><img src="img\exp2ex4.png" width="900"></p>
+
 
 ### Exercise 5: Cleanup
 
@@ -93,7 +95,8 @@ history | tail -20
 
 **Output:**
 
-<p align="center"><img src="img\exp2ex5.png" width="900"></p>
+<img width="1086" height="986" alt="Screenshot 2025-11-05 221750" src="https://github.com/user-attachments/assets/3cef6e71-8ddd-45eb-8ff8-be7aacbceccf" />
+
 
 ---
 
@@ -114,9 +117,8 @@ cd scripts
 pwd
 '''
 ### Output:
-<p align="center">
-<img align="center" src="img\t1.png" width="900">
-</p>
+<img width="791" height="891" alt="Screenshot 2025-11-05 222138" src="https://github.com/user-attachments/assets/5212eb89-337f-478e-83f8-cab5e69025a4" />
+
 
 ## TASK 2: [FIle Creation and Content]
 
@@ -138,9 +140,8 @@ cat readme.txt
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t2.png" width="900">
-</p>
+<img width="874" height="697" alt="Screenshot 2025-11-05 222519" src="https://github.com/user-attachments/assets/33573ef5-3e25-444b-9b28-fe0fcb4f5c46" />
+
 
 
 ## TASK 3: [FIle Operations]
@@ -159,9 +160,8 @@ cp readme.txt data/project_info.txt
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t3.png" width="900">
-</p>
+<img width="879" height="996" alt="Screenshot 2025-11-05 223450" src="https://github.com/user-attachments/assets/a8ddc16a-afcf-404b-a029-d73c54cb1449" />
+
 
 
 ## TASK 4: [FIle Permissions]
@@ -181,12 +181,9 @@ chmod u+x backup.sh
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t4.1.png" width="900">
-</p>
-<p align="center">
-<img align="center" src="img/t4.2.png" width="900">
-</p>
+<img width="643" height="435" alt="Screenshot 2025-11-05 225800" src="https://github.com/user-attachments/assets/3ce28a29-943c-4c8c-871f-a6c560f2298c" />
+
+
 
 ## TASK 5: [FIle Viewing]
 
@@ -206,9 +203,8 @@ grep "1"
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t5.png" width="900">
-</p>
+<img width="647" height="442" alt="Screenshot 2025-11-05 233744" src="https://github.com/user-attachments/assets/4e2ec0f5-8cd8-4cac-8476-8035ca2940b8" />
+
 
 
 ## TASK 6: [Text Editing]
@@ -237,9 +233,8 @@ cat config.txt
 
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t6.png" width="900">
-</p>
+<img width="642" height="439" alt="Screenshot 2025-11-05 234435" src="https://github.com/user-attachments/assets/1cc29120-13a3-4122-9641-51e8d0dc37f2" />
+
 
 
 ## TASK 7: [System Information]
@@ -267,9 +262,8 @@ df -h >> system_info.txt
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t7.png" width="900">
-</p>
+<img width="873" height="911" alt="Screenshot 2025-11-05 234709" src="https://github.com/user-attachments/assets/47785afe-1096-476a-90f0-cfa041cb2c3a" />
+
 
 ## TASK 8: [File Organisation]
 
@@ -287,9 +281,9 @@ cp test_project/data/project_info.txt    test_project/docs/notes.txt    test_pro
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t8.png" width="900">
-</p>
+<img width="877" height="161" alt="Screenshot 2025-11-05 235943" src="https://github.com/user-attachments/assets/82519126-b076-4642-a02b-3e13c3817c69" />
+<img width="877" height="161" alt="Screenshot 2025-11-05 235943" src="https://github.com/user-attachments/assets/709746d8-6e99-472c-98ff-633242e38a1a" />
+
 
 
 ## TASK 9: [Process and History]
@@ -307,9 +301,8 @@ history 10
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t9.png" width="900">
-</p>
+<img width="883" height="635" alt="Screenshot 2025-11-06 000240" src="https://github.com/user-attachments/assets/3259fdd3-a8d1-4698-beda-9af683c02ced" />
+
 
 ## TASK 10: [Comprehensive Cleanup]
 
@@ -333,9 +326,8 @@ find . -type d | wc -l >> summary.txt
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t10.png" width="900">
-</p>
+<img width="856" height="632" alt="Screenshot 2025-11-06 000645" src="https://github.com/user-attachments/assets/de320063-05c4-4e69-8540-4a422eca7a96" />
+
 
 
 ## Result
