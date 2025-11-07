@@ -1,7 +1,7 @@
 
 ## Experiment [2]: [Linux file systems permissions and essential commands]
 
-### Name: Tanmay Amit Verma  Roll.: 590029302 Date: 2025-17-05
+### Name: Shashwat Agrawal  Roll.: 590029107 Date: 2025-17-05
 
 ### AIM:
 * [To Learn linux file systems permissions and essential commands]
