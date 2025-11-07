@@ -1,5 +1,5 @@
 ## Experiment [4]: [Bash Scripting]
-### Name:Tanmay Amit Verma, Roll No.: 590029302, Date: 2025-09-04
+### Name:Shashwat Agrawal, Roll No.: 590029107, Date: 2025-09-04
 ### AIM: 
 * [To Learn Basics of Bash Scripting.]
 
