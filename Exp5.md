@@ -1,7 +1,7 @@
 
 ## Experiment [5]: [Shell Programming]
 
-### Name: Tanmay Amit Verma  Roll.: 590029302 Date: 2025-10-05
+### Name:Shashwat Agrawal  Roll.: 590029107 Date: 2025-10-05
 
 ### AIM:
 * [To Learn Basic Conditional Statements in Bash Scripting]
