@@ -1,6 +1,6 @@
 ## Experiment 7: Shell Programming, Process and Scheduling
 
-### Name: Tanmay Amit Verma   Roll No.: 590029302  Date: 2025-09-23
+### Name: Shashwat Aggarwal   Roll No.: 5900291072  Date: 2025-09-23
 
 ### Aim:
 
@@ -41,12 +41,7 @@ done
 ### Output:
 
 <p align="center">
-<img src="img\t1.1.png" width="900">
-</p>
-
-
-<p align="center">
-<img src="img\t1.2.png" width="900">
+<img width="698" height="980" alt="image" src="https://github.com/user-attachments/assets/a740e479-2715-471b-af52-cebd223b4262" />
 </p>
 
 ---
@@ -72,7 +67,8 @@ ps -p "$pid" -o pid,ppid,state,comm,%mem,%cpu
 ### Output:
 
 <p align="center">
-<img src="img\t2.png" width="900">
+<img width="582" height="183" alt="image" src="https://github.com/user-attachments/assets/a0d37912-0642-4087-905b-9f3b0bb17a1c" />
+
 </p>
 
 ---
@@ -102,7 +98,7 @@ crontab -e
 ### Output:
 
 <p align="center">
-<img src="img\t3.png" width="900">
+<img width="716" height="345" alt="image" src="https://github.com/user-attachments/assets/847891a3-46be-4011-910e-bdbc528877c9" />
 </p>
 
 ---
@@ -158,9 +154,6 @@ Schedule a script to run every day at 7:00 AM using `cron`.
 ```bash
 #!/bin/bash
 echo "Script ran at $(date)" >> ~/daily_log.txt
-```
-
-```bash
 crontab -e
 0 7 * * * ~/my_script.sh
 ```
@@ -168,7 +161,7 @@ crontab -e
 ### Output:
 
 <p align="center">
-<img src="img\t5.png" width="900">
+<img width="574" height="163" alt="image" src="https://github.com/user-attachments/assets/e0120bfb-ab36-4c3b-bec3-a7865b97177e" />
 </p>
 
 ---
