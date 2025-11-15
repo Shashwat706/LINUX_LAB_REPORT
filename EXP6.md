@@ -51,9 +51,8 @@ fi
 
 ### Output:
 
-<p align="center">
-<img src="img\ex1.png" width="900">
-</p>
+<img width="951" height="335" alt="image" src="https://github.com/user-attachments/assets/e423c271-ae9b-4f7a-9976-62d76e52a215" />
+
 
 ---
 
@@ -88,10 +87,9 @@ echo "LCM: $lcm"
 ```
 
 ### Output:
+<img width="948" height="428" alt="image" src="https://github.com/user-attachments/assets/1481b166-9e64-4207-86b3-e54cc46b7ff6" />
 
-<p align="center">
-<img src="img\ex2.png" width="900">
-</p>
+
 
 ---
 
@@ -118,9 +116,8 @@ printf "%s\n" "${arr[@]}" | sort -nr
 
 ### Output:
 
-<p align="center">
-<img src="img\ex3.png" width="900">
-</p>
+<img width="835" height="461" alt="image" src="https://github.com/user-attachments/assets/9df0fbdb-5acf-4f2c-8160-2366fd588662" />
+
 
 ---
 
@@ -151,9 +148,8 @@ echo "Factorial of $num is: $fact"
 
 ### Output:
 
-<p align="center">
-<img src="img\t1.png" width="900">
-</p>
+<img width="952" height="347" alt="image" src="https://github.com/user-attachments/assets/1c852184-12e8-4020-836c-fb1a3bcc1b9f" />
+
 
 ---
 
@@ -189,7 +185,7 @@ echo "The word '$word' appears $count times in the file '$filename'."
 ### Output:
 
 <p align="center">
-<img src="img\t2.png" width="900">
+<img width="709" height="144" alt="image" src="https://github.com/user-attachments/assets/454a5cb6-8c22-4836-9a7a-43603c2938a1" />
 </p>
 
 ---
@@ -229,7 +225,7 @@ echo
 ### Output:
 
 <p align="center">
-<img src="img\t3.png" width="900">
+<img width="592" height="154" alt="image" src="https://github.com/user-attachments/assets/92dff17c-bf77-4a2f-a54c-57b078b30216" />
 </p>
 
 ---
@@ -242,7 +238,7 @@ Write a script that validates whether the entered string is a proper email addre
 ### Command(s):
 
 ```bash
-  #!/bin/bash
+#!/bin/bash
 
 read -p "Enter an email address: " email
 
@@ -258,7 +254,7 @@ fi
 ### Output:
 
 <p align="center">
-<img src="img\ex7.png" width="900">
+<img width="688" height="123" alt="image" src="https://github.com/user-attachments/assets/58aace0f-4108-49f0-bad3-52a7fc05d625" />
 </p>
 
 ## Task 5
@@ -284,7 +280,7 @@ i
 ### Output:
 
 <p align="center">
-<img src="img\t5.png" width="900">
+<img width="688" height="123" alt="image" src="https://github.com/user-attachments/assets/58aace0f-4108-49f0-bad3-52a7fc05d625" />
 </p>
 
 
