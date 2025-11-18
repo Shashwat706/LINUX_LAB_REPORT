@@ -1,6 +1,6 @@
 ## Experiment 7: Shell Programming, Process and Scheduling
 
-### Name: Shashwat Aggarwal   Roll No.: 5900291072  Date: 2025-09-23
+### Name: Shashwat Agrawal  Roll No.: 590029107  Date: 2025-09-23
 
 ### Aim:
 
